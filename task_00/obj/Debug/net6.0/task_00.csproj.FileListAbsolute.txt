@@ -1,0 +1,15 @@
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.csproj.AssemblyReference.cache
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.AssemblyInfoInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.AssemblyInfo.cs
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.csproj.CoreCompileInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/bin/Debug/net6.0/task_00
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/bin/Debug/net6.0/task_00.deps.json
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/bin/Debug/net6.0/task_00.runtimeconfig.json
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/bin/Debug/net6.0/task_00.dll
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/bin/Debug/net6.0/ref/task_00.dll
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/bin/Debug/net6.0/task_00.pdb
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.dll
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/ref/task_00.dll
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.pdb
+/home/andrey/Рабочий стол/Учеба/C#/home_work/task_00/obj/Debug/net6.0/task_00.genruntimeconfig.cache
