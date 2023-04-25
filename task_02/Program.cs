@@ -8,3 +8,6 @@ Console.Write("ДА");
 
 if(num1 == 1)
 Console.Write("НЕТ");
+
+if(num1 == -1)
+Console.Write("НЕТ");
